@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Well guess I am learning Git concepts now.
 Lets see what will happen.
 Lets try some Rebasing.
+Edited in github.com
